@@ -79,15 +79,6 @@ Detailed implementation steps, configurations, and screenshots:
 
 ---
 
-## Future Improvements
-
-- Add more CloudTrail security event detections
-- Integrate AWS Security Hub
-- Implement automated response workflows
-- Deploy infrastructure using Terraform
-
----
-
 ## License
 
 MIT License
