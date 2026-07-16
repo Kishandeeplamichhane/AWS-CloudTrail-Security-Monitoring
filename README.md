@@ -8,8 +8,7 @@ A centralized AWS security monitoring solution that captures AWS API activities 
 
 ## Architecture
 
-![AWS CloudTrail Security Architecture](architecture/AWS-CloudTrail-Security-Architecture.png)
-
+![AWS CloudTrail Security Architecture](./architecture/architecture-diagram.png)
 ---
 
 ## AWS Services Used
